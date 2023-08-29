@@ -22,7 +22,7 @@ Welcome to the repository for the ebook "Exploring Extended Reality (XR): A Comp
 
 ## About the Author
 
-Mr. Shivam Nimbalkar is a distinguished expert in the field of XR and has contributed significantly to this guide. Learn more about him in the [About the Author](#about-the-author) section.
+Mr. Shivam Nimbalkar is a distinguished expert in the field of XR and has contributed significantly to this guide. Learn more about him in the [About the Author](https://github.com/ShivamNimbalkar)section.
 
 ## Disclaimer
 
@@ -30,5 +30,4 @@ Please read the [Disclaimer](#disclaimer) section before using or relying on the
 
 ---
 
-*Copyright © [2023] by Institute of Futuristic Technology (IOFT). All rights reserved.*
 
