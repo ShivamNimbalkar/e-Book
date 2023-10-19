@@ -23,6 +23,7 @@ Welcome to the repository for the ebook "Exploring Extended Reality (XR): A Comp
 ## About the Author
 
 Mr. Shivam Nimbalkar is a expert in the field of XR and has contributed significantly to this guide. Learn more about him in the [About the Author](https://github.com/ShivamNimbalkar)section.
+<hr>
 <a href="mailto:shivamnimbalkar3901@gmail.com">to get the book free of cost.</a></p>
 ## Disclaimer
 
